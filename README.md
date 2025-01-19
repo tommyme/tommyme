@@ -1,13 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on `Linux Kernel arm64 related`
-- 🌱 I’m currently learning `Linux Kernel dev`
+- 🔭 I’m currently working on **Linux Kernel arm64 related**
+- 🌱 I’m currently learning **Linux Kernel dev**
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Everything
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎮 On Holiday: find **games** everywhere
 
 <h1 align="center">Welcome ♪(^∇^*)</h1>
 
